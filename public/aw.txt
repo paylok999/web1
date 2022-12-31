@@ -1,0 +1,360 @@
+Search "cbisreal" (348 hits in 8 files)
+  C:\Users\root\Downloads\PlayMU Season13 Part 2\IGC.Server Suite-FULL-13.2.1.0\Server\Files\3. GameServer_Regular_2\TRADE_LOG\11.01.2019_TRADE_LOG_Server2.log (4 hits)
+	Line 1642: [12:42:27] Request to trade [berserk5][CBisReal][110.54.243.133] to [fowkies][hardbanana][110.54.243.133]
+	Line 1643: [12:42:34] [berserk5][CBisReal][110.54.243.133] -> [fowkies][hardbanana][110.54.243.133]: Trade Accept!
+	Line 1644: [12:42:36] [berserk5][CBisReal][110.54.243.133] (51,50,221) Trade Item  Opposite :[fowkies][hardbanana][110.54.243.133] (51,50,220) (Item:Wings of Conqueror/Serial:35493227 [9][0][0][7] Ex:[0,0,0,1,0,1,0,0,0,0,0] Set:[0] E:[0]
+	Line 1645: [12:42:36] [fowkies][hardbanana][110.54.243.133] -> [berserk5][CBisReal][110.54.243.133]: Trade Accept!
+  C:\Users\root\Downloads\PlayMU Season13 Part 2\IGC.Server Suite-FULL-13.2.1.0\Server\Files\3. GameServer_Regular_2\TRADE_LOG\28.12.2018_-_29.12.2018_TRADE_LOG_Server2.log (9 hits)
+	Line 3125: [15:31:56] Request to trade [berserker7][Xynergy][49.145.20.206] to [berserk5][CBisReal][49.145.20.206]
+	Line 3126: [15:32:03] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 3127: [15:32:03] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 3128: [15:32:03] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 3129: [15:32:03] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 3130: [15:32:05] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 3131: [15:32:07] [berserk5][CBisReal][49.145.20.206] (33,83,12) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (33,84,10) (Item:Jewel of Harmony Bundle/Serial:26971451 [2][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3132: [15:32:07] [berserk5][CBisReal][49.145.20.206] (33,83,12) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (33,84,10) (Item:Jewel of Harmony Bundle/Serial:26966343 [2][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3133: [15:32:07] [berserker7][Xynergy][49.145.20.206] -> [berserk5][CBisReal][49.145.20.206]: Trade Accept!
+  C:\Users\root\Downloads\PlayMU Season13 Part 2\IGC.Server Suite-FULL-13.2.1.0\Server\Files\3. GameServer_Regular_2\TRADE_LOG\14.12.2018_-_19.12.2018_TRADE_LOG_Server2.log (13 hits)
+	Line 171: [01:29:20] Request to trade [berserk5][CBisReal][110.54.246.29] to [fowkies][hardbanana][110.54.246.29]
+	Line 172: [01:29:22] [berserk5][CBisReal][110.54.246.29] -> [fowkies][hardbanana][110.54.246.29]: Trade Accept!
+	Line 173: [01:29:22] [berserk5][CBisReal][110.54.246.29] -> [fowkies][hardbanana][110.54.246.29]: Trade Accept!
+	Line 174: [01:29:23] [berserk5][CBisReal][110.54.246.29] -> [fowkies][hardbanana][110.54.246.29]: Trade Accept!
+	Line 175: [01:29:26] [berserk5][CBisReal][110.54.246.29] -> [fowkies][hardbanana][110.54.246.29]: Trade Accept!
+	Line 176: [01:29:26] [berserk5][CBisReal][110.54.246.29] -> [fowkies][hardbanana][110.54.246.29]: Trade Accept!
+	Line 177: [01:29:27] [berserk5][CBisReal][110.54.246.29] -> [fowkies][hardbanana][110.54.246.29]: Trade Accept!
+	Line 178: [01:29:30] [fowkies][hardbanana][110.54.246.29] -> [berserk5][CBisReal][110.54.246.29]: Trade Accept!
+	Line 179: [01:29:30] [fowkies][hardbanana][110.54.246.29] -> [berserk5][CBisReal][110.54.246.29]: Trade Accept!
+	Line 180: [01:29:31] [berserk5][CBisReal][110.54.246.29] (51,48,224) Trade Item  Opposite :[fowkies][hardbanana][110.54.246.29] (51,49,223) (Item:Jewel of Life/Serial:275626400 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 181: [01:29:31] [berserk5][CBisReal][110.54.246.29] (51,48,224) Trade Item  Opposite :[fowkies][hardbanana][110.54.246.29] (51,49,223) (Item:Wings of Conqueror/Serial:35534597 [9][0][0][0] Ex:[0,0,0,1,1,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 182: [01:29:31] [fowkies][hardbanana][110.54.246.29] (51,49,223) Trade Item  Opposite :[berserk5][CBisReal][110.54.246.29] (51,48,224) (Item:Wings of Conqueror/Serial:35493227 [9][0][0][7] Ex:[0,0,0,1,0,1,0,0,0,0,0] Set:[0] E:[0]
+	Line 183: [01:29:31] [fowkies][hardbanana][110.54.246.29] -> [berserk5][CBisReal][110.54.246.29]: Trade Accept!
+  C:\Users\root\Downloads\PlayMU Season13 Part 2\IGC.Server Suite-FULL-13.2.1.0\Server\Files\3. GameServer_Regular_2\TRADE_LOG\14.12.2018_-_18.12.2018_TRADE_LOG_Server2.log (9 hits)
+	Line 5204: [23:31:43] Request to trade [fowkies][hardbanana][110.54.249.87] to [berserk5][CBisReal][110.54.249.87]
+	Line 5205: [23:31:53] [berserk5][CBisReal][110.54.249.87] -> [fowkies][hardbanana][110.54.249.87]: Trade Accept!
+	Line 5206: [23:31:55] [berserk5][CBisReal][110.54.249.87] -> [fowkies][hardbanana][110.54.249.87]: Trade Accept!
+	Line 5207: [23:31:58] [berserk5][CBisReal][110.54.249.87] -> [fowkies][hardbanana][110.54.249.87]: Trade Accept!
+	Line 5208: [23:32:00] [berserk5][CBisReal][110.54.249.87] -> [fowkies][hardbanana][110.54.249.87]: Trade Accept!
+	Line 5209: [23:32:01] [fowkies][hardbanana][110.54.249.87] -> [berserk5][CBisReal][110.54.249.87]: Trade Accept!
+	Line 5210: [23:32:02] [berserk5][CBisReal][110.54.249.87] (0,142,118) Trade Item  Opposite :[fowkies][hardbanana][110.54.249.87] (0,142,117) (Item:Elemental Talisman of Luck/Serial:165721764 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 5211: [23:32:02] [berserk5][CBisReal][110.54.249.87] (0,142,118) Trade Item  Opposite :[fowkies][hardbanana][110.54.249.87] (0,142,117) (Item:Blessing of Spirit/Serial:245066384 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 5212: [23:32:02] [berserk5][CBisReal][110.54.249.87] -> [fowkies][hardbanana][110.54.249.87]: Trade Accept!
+  C:\Users\root\Downloads\PlayMU Season13 Part 2\IGC.Server Suite-FULL-13.2.1.0\Server\Files\3. GameServer_Regular_2\TRADE_LOG\14.12.2018_-_16.12.2018_TRADE_LOG_Server2.log (225 hits)
+	Line 10104: [21:48:40] Request to trade [berserker7][Xynergy][49.145.20.206] to [berserk5][CBisReal][49.145.20.206]
+	Line 10105: [21:48:43] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10106: [21:48:43] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10107: [21:48:44] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10108: [21:48:44] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10109: [21:48:44] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10110: [21:48:44] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10111: [21:48:45] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10112: [21:48:45] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10113: [21:48:45] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10114: [21:48:45] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10115: [21:48:45] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10116: [21:48:45] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10117: [21:48:46] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10118: [21:48:46] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10119: [21:48:46] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10120: [21:48:46] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10121: [21:48:46] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10122: [21:48:47] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10123: [21:48:47] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10124: [21:48:47] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10125: [21:48:47] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10126: [21:48:47] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10127: [21:48:48] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10128: [21:48:48] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10129: [21:48:48] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10130: [21:48:48] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10131: [21:48:48] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10132: [21:48:49] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10133: [21:48:49] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10134: [21:48:49] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10135: [21:48:49] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10136: [21:48:49] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10137: [21:48:50] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10138: [21:48:50] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10139: [21:48:50] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10140: [21:48:50] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10141: [21:48:51] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10142: [21:48:51] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10143: [21:48:51] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10144: [21:48:51] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10145: [21:48:51] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10146: [21:48:51] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10147: [21:48:52] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10148: [21:48:52] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10149: [21:48:52] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10150: [21:48:52] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10151: [21:48:53] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10152: [21:48:53] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10153: [21:48:53] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10154: [21:48:53] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10155: [21:48:53] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10156: [21:48:54] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10157: [21:48:54] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10158: [21:48:54] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10159: [21:48:54] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10160: [21:48:54] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10161: [21:48:55] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10162: [21:48:55] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10163: [21:48:55] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10164: [21:48:55] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10165: [21:48:55] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10166: [21:48:56] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10167: [21:48:56] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10168: [21:48:56] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10169: [21:48:56] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10170: [21:48:56] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10171: [21:48:57] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10172: [21:48:57] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10173: [21:49:00] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10174: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255801550 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10175: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255495675 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10176: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255662653 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10177: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255957454 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10178: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255551205 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10179: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255659040 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10180: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255649510 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10181: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255641821 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10182: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255561206 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10183: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255772946 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10184: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:256063927 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10185: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255585880 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10186: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255611385 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10187: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255741598 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10188: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:256403505 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10189: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:256345567 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10190: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:259120395 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10191: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:259041999 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10192: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:256391608 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10193: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:256242406 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10194: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:256648838 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10195: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:253430297 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10196: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:253733223 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10197: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:256432183 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10198: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:253490536 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10199: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:253619764 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10200: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:256163260 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10201: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255130441 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10202: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:254875688 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10203: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255034235 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10204: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255817002 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10205: [21:49:02] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:254964041 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10206: [21:49:03] [berserker7][Xynergy][49.145.20.206] -> [berserk5][CBisReal][49.145.20.206]: Trade Accept!
+	Line 10207: [21:49:11] Request to trade [berserk5][CBisReal][49.145.20.206] to [berserker7][Xynergy][49.145.20.206]
+	Line 10208: [21:49:16] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10209: [21:49:16] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10210: [21:49:16] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10211: [21:49:16] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10212: [21:49:17] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10213: [21:49:17] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10214: [21:49:17] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10215: [21:49:17] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10216: [21:49:18] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10217: [21:49:18] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10218: [21:49:18] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10219: [21:49:18] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10220: [21:49:18] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10221: [21:49:18] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10222: [21:49:19] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10223: [21:49:20] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10224: [21:49:20] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10225: [21:49:20] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10226: [21:49:21] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10227: [21:49:21] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10228: [21:49:21] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10229: [21:49:21] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10230: [21:49:22] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10231: [21:49:22] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10232: [21:49:22] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10233: [21:49:22] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10234: [21:49:22] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10235: [21:49:22] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10236: [21:49:23] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10237: [21:49:23] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10238: [21:49:24] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10239: [21:49:24] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10240: [21:49:24] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10241: [21:49:24] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10242: [21:49:24] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10243: [21:49:24] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10244: [21:49:25] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10245: [21:49:25] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10246: [21:49:25] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10247: [21:49:25] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10248: [21:49:25] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10249: [21:49:25] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10250: [21:49:26] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10251: [21:49:26] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10252: [21:49:26] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10253: [21:49:26] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10254: [21:49:27] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10255: [21:49:27] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10256: [21:49:27] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10257: [21:49:27] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10258: [21:49:28] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10259: [21:49:28] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10260: [21:49:29] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10261: [21:49:29] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10262: [21:49:29] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10263: [21:49:29] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10264: [21:49:29] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10265: [21:49:30] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10266: [21:49:30] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10267: [21:49:30] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10268: [21:49:30] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10269: [21:49:30] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10270: [21:49:31] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10271: [21:49:31] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10272: [21:49:31] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10273: [21:49:31] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10274: [21:49:32] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10275: [21:49:32] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10276: [21:49:32] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10277: [21:49:32] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10278: [21:49:32] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10279: [21:49:32] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10280: [21:49:33] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10281: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:256009713 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10282: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:254987387 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10283: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:254787332 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10284: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255984165 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10285: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255358595 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10286: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:254912377 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10287: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255097622 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10288: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255512618 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10289: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255382293 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10290: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:253943948 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10291: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:254835879 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10292: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Complex Potion/Serial:255932046 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10293: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10294: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10295: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10296: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10297: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10298: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10299: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10300: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10301: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10302: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10303: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10304: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10305: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10306: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10307: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10308: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10309: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10310: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10311: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10312: [21:49:35] [berserk5][CBisReal][49.145.20.206] (51,48,226) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Large Healing Potion/Serial:0 [1][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10313: [21:49:35] [berserker7][Xynergy][49.145.20.206] -> [berserk5][CBisReal][49.145.20.206]: Trade Accept!
+	Line 10314: [21:49:59] Request to trade [berserk5][CBisReal][49.145.20.206] to [berserker7][Xynergy][49.145.20.206]
+	Line 10315: [21:50:04] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10316: [21:50:04] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10317: [21:50:05] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10318: [21:50:05] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10319: [21:50:05] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10320: [21:50:05] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10321: [21:50:06] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10322: [21:50:06] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10323: [21:50:07] [berserk5][CBisReal][49.145.20.206] -> [berserker7][Xynergy][49.145.20.206]: Trade Accept!
+	Line 10324: [21:50:09] [berserk5][CBisReal][49.145.20.206] (51,50,228) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Jewel of Bless/Serial:275146484 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10325: [21:50:09] [berserk5][CBisReal][49.145.20.206] (51,50,228) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Jewel of Bless/Serial:275196427 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10326: [21:50:09] [berserk5][CBisReal][49.145.20.206] (51,50,228) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Jewel of Bless/Serial:277497862 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10327: [21:50:09] [berserk5][CBisReal][49.145.20.206] (51,50,228) Trade Item  Opposite :[berserker7][Xynergy][49.145.20.206] (51,50,227) (Item:Jewel of Bless/Serial:275827684 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 10328: [21:50:09] [berserker7][Xynergy][49.145.20.206] -> [berserk5][CBisReal][49.145.20.206]: Trade Accept!
+  C:\Users\root\Downloads\PlayMU Season13 Part 2\IGC.Server Suite-FULL-13.2.1.0\Server\Files\3. GameServer_Regular_2\TRADE_LOG\14.12.2018_TRADE_LOG_Server2.log (7 hits)
+	Line 203: [02:23:26] Request to trade [berserk5][CBisReal][110.54.233.66] to [fowkies][hardbanana][110.54.233.66]
+	Line 204: [02:23:30] [fowkies][hardbanana][110.54.233.66] -> [berserk5][CBisReal][110.54.233.66]: Trade Accept!
+	Line 205: [02:23:30] [fowkies][hardbanana][110.54.233.66] -> [berserk5][CBisReal][110.54.233.66]: Trade Accept!
+	Line 206: [02:23:35] [berserk5][CBisReal][110.54.233.66] -> [fowkies][hardbanana][110.54.233.66]: Trade Accept!
+	Line 207: [02:23:36] [berserk5][CBisReal][110.54.233.66] (0,149,111) Trade Item  Opposite :[fowkies][hardbanana][110.54.233.66] (0,150,110) (Item:Wings of Conqueror/Serial:35493227 [9][0][0][7] Ex:[0,0,0,1,0,1,0,0,0,0,0] Set:[0] E:[0]
+	Line 208: [02:23:36] [fowkies][hardbanana][110.54.233.66] (0,150,110) Trade Item  Opposite :[berserk5][CBisReal][110.54.233.66] (0,149,111) (Item:Wings of Conqueror/Serial:35534597 [9][0][0][0] Ex:[0,0,0,1,1,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 209: [02:23:36] [fowkies][hardbanana][110.54.233.66] -> [berserk5][CBisReal][110.54.233.66]: Trade Accept!
+  C:\Users\root\Downloads\PlayMU Season13 Part 2\IGC.Server Suite-FULL-13.2.1.0\Server\Files\3. GameServer_Regular_2\TRADE_LOG\05.12.2018_-_09.12.2018_TRADE_LOG_Server2.log (6 hits)
+	Line 3294: [23:09:25] Request to trade [berserk5][CBisReal][110.54.234.117] to [fowkies][hardbanana][110.54.234.117]
+	Line 3295: [23:09:34] [berserk5][CBisReal][110.54.234.117] -> [fowkies][hardbanana][110.54.234.117]: Trade Accept!
+	Line 3296: [23:09:34] [berserk5][CBisReal][110.54.234.117] -> [fowkies][hardbanana][110.54.234.117]: Trade Accept!
+	Line 3297: [23:09:35] [berserk5][CBisReal][110.54.234.117] -> [fowkies][hardbanana][110.54.234.117]: Trade Accept!
+	Line 3298: [23:09:37] [berserk5][CBisReal][110.54.234.117] (0,147,114) Trade Item  Opposite :[fowkies][hardbanana][110.54.234.117] (0,147,113) (Item:Blessing of Spirit/Serial:267655349 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3299: [23:09:37] [fowkies][hardbanana][110.54.234.117] -> [berserk5][CBisReal][110.54.234.117]: Trade Accept!
+  C:\Users\root\Downloads\PlayMU Season13 Part 2\IGC.Server Suite-FULL-13.2.1.0\Server\Files\3. GameServer_Regular_2\TRADE_LOG\16.11.2018_-_17.11.2018_TRADE_LOG_Server2.log (75 hits)
+	Line 3810: [20:40:41] Request to trade [berserk5][CBisReal][49.144.47.247] to [berserker7][Xynergy][49.144.47.247]
+	Line 3811: [20:40:46] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3812: [20:40:46] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3813: [20:40:47] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3814: [20:40:47] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3815: [20:40:47] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3816: [20:40:47] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3817: [20:40:48] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3818: [20:40:48] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3819: [20:40:48] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3820: [20:40:48] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3821: [20:40:49] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3822: [20:40:49] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3823: [20:40:50] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3824: [20:40:50] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3825: [20:40:50] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3826: [20:40:50] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3827: [20:40:51] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3828: [20:40:51] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3829: [20:40:51] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3830: [20:40:51] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3831: [20:40:51] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3832: [20:40:51] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3833: [20:40:52] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3834: [20:40:52] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3835: [20:40:52] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3836: [20:40:52] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3837: [20:40:53] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3838: [20:40:53] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3839: [20:40:53] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3840: [20:40:53] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3841: [20:40:53] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3842: [20:40:54] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3843: [20:40:55] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3844: [20:40:55] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3845: [20:40:56] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3846: [20:40:56] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3847: [20:40:56] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3848: [20:40:56] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3849: [20:40:57] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 3850: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:188236631 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3851: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Seed Sphere (Water)/Serial:269728395 [3][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3852: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Seed Sphere (Water)/Serial:269737117 [4][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3853: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:188236592 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3854: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:188237395 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3855: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:188237345 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3856: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:187732713 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3857: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Bundle of Jewel of Bless/Serial:274973431 [2][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3858: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Bundle of Jewel of Bless/Serial:263933175 [2][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3859: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Jewel of Bless/Serial:275158589 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3860: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:192473422 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3861: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:194416450 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3862: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:192474711 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3863: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:195211691 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3864: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:194416648 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3865: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Cherry Blossom Flower Petal/Serial:185976089 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3866: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:190264541 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3867: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:190264470 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3868: [20:40:59] [berserk5][CBisReal][49.144.47.247] (0,145,113) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (0,146,112) (Item:Mysterious Stone/Serial:190265178 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 3869: [20:40:59] [berserker7][Xynergy][49.144.47.247] -> [berserk5][CBisReal][49.144.47.247]: Trade Accept!
+	Line 4039: [20:59:04] Request to trade [berserk5][CBisReal][49.144.47.247] to [berserker7][Xynergy][49.144.47.247]
+	Line 4040: [20:59:09] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 4041: [20:59:09] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 4042: [20:59:10] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 4043: [20:59:10] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 4044: [20:59:10] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 4045: [20:59:10] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 4046: [20:59:11] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 4047: [20:59:11] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 4048: [20:59:12] [berserk5][CBisReal][49.144.47.247] -> [berserker7][Xynergy][49.144.47.247]: Trade Accept!
+	Line 4049: [20:59:14] [berserk5][CBisReal][49.144.47.247] (51,48,240) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (51,46,242) (Item:Jewel of Creation/Serial:225624228 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 4050: [20:59:14] [berserk5][CBisReal][49.144.47.247] (51,48,240) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (51,46,242) (Item:Jewel of Chaos/Serial:274973134 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 4051: [20:59:14] [berserk5][CBisReal][49.144.47.247] (51,48,240) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (51,46,242) (Item:Jewel of Chaos/Serial:274973137 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 4052: [20:59:14] [berserk5][CBisReal][49.144.47.247] (51,48,240) Trade Item  Opposite :[berserker7][Xynergy][49.144.47.247] (51,46,242) (Item:Jewel of Creation/Serial:225852567 [0][0][0][0] Ex:[0,0,0,0,0,0,0,0,0,0,0] Set:[0] E:[0]
+	Line 4053: [20:59:14] [berserker7][Xynergy][49.144.47.247] -> [berserk5][CBisReal][49.144.47.247]: Trade Accept!
+Search "sbisreal" (0 hits in 0 files)
+Search "sbisreal" (0 hits in 0 files)
+Search "sbisreal" (0 hits in 0 files)
